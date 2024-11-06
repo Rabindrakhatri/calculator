@@ -1,0 +1,35 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: rgb(28, 28, 158);
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background: url(1.jpg) repeat;;
+}
+p{
+    font-size: 45px;
+}
+input{
+    width: 78px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color:rgb(32, 139, 182);
+    color: black;
+    border-style: none;
+    text-align: center;
+    
+}
+#d{
+    width: 400px;
+border-radius: 5px;
+background-color: rgb(46, 39, 39)
+}
+.btn:hover{
+    background-color:yellow;
+    cursor: pointer;
+}
